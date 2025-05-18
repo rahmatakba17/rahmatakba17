@@ -45,6 +45,6 @@ Funny, Humble, Music, Sports
 
 ### snake auto run
 
-<img src="https://raw.githubusercontent.com/rahmatakba17/rahmatakba_17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rahmatakba17/rahmatakba17/output/snake.svg" alt="Snake animation" />
 
 <!-- refresh profile -->
