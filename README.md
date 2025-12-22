@@ -2,7 +2,8 @@
 
 ![Rahmat](img/github-header-image.png)
 
-🌱 I’m a **Junior Programmer** who’s passionate about learning and building projects using modern technologies.
+🌱 I’m a Junior Web Developer | Master’s in Computer Engineering (AI) | Building with HTML, CSS, PHP, JS 🎸⚽
+Non-speaking (speech disability) — but I speak through code & clear documentation.
 
 ---
 
